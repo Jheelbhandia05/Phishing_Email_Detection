@@ -1,0 +1,9 @@
+Subject: Team Meeting Reminder
+
+Hello Team,
+
+This is a reminder about our scheduled meeting tomorrow at 10 AM.
+Please be on time.
+
+Regards,
+HR Team
